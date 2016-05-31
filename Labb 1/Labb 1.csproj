@@ -94,6 +94,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\ayahuasca-pleasant-vision.jpeg" />
+    <Content Include="img\ayahuasca-pleasant-vision1.jpg" />
+    <Content Include="img\ayahuasca-pleasant-vision2.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
