@@ -94,13 +94,19 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="img\ayahuasca-pleasant-vision.jpeg" />
-    <Content Include="img\ayahuasca-pleasant-vision1.jpg" />
-    <Content Include="img\ayahuasca-pleasant-vision2.jpg" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="HtmlPage2.html" />
+    <Content Include="HtmlPage3.html" />
+    <Content Include="HtmlPage4.html" />
+    <Content Include="media\ayahuasca-pleasant-vision.jpeg" />
+    <Content Include="media\ayahuasca-pleasant-vision1.jpg" />
+    <Content Include="media\ayahuasca-pleasant-vision2.jpg" />
+    <Content Include="media\NeonHeart-EndlessGrace.mp3" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="media\Maldive3.webm" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
