@@ -106,6 +106,7 @@
     <Content Include="media\ayahuasca-pleasant-vision1.jpg" />
     <Content Include="media\ayahuasca-pleasant-vision2.jpg" />
     <Content Include="media\NeonHeart-EndlessGrace.mp3" />
+    <Content Include="order.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
