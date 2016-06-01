@@ -98,6 +98,10 @@
     <Content Include="HtmlPage2.html" />
     <Content Include="HtmlPage3.html" />
     <Content Include="HtmlPage4.html" />
+    <Content Include="media\a.jpg" />
+    <Content Include="media\aa.jpg" />
+    <Content Include="media\aaa.jpg" />
+    <Content Include="media\aaaa.jpg" />
     <Content Include="media\ayahuasca-pleasant-vision.jpeg" />
     <Content Include="media\ayahuasca-pleasant-vision1.jpg" />
     <Content Include="media\ayahuasca-pleasant-vision2.jpg" />
@@ -118,6 +122,7 @@
     <Content Include="Labb1.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="shopping.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
