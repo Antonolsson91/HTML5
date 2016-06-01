@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D9BEA7D0-6107-43AA-8755-5D3008053EA4}</ProjectGuid>
+    <ProjectGuid>{17E7E3FA-5E33-4F81-BCE8-7D7530B4AFEC}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Labb_1</RootNamespace>
-    <AssemblyName>Labb 1</AssemblyName>
+    <RootNamespace>Labb_3</RootNamespace>
+    <AssemblyName>Labb 3</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -94,25 +94,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
-    <Content Include="HtmlPage2.html" />
-    <Content Include="HtmlPage3.html" />
-    <Content Include="HtmlPage4.html" />
-    <Content Include="HtmlPage5.html" />
-    <Content Include="media\a.jpg" />
-    <Content Include="media\aa.jpg" />
-    <Content Include="media\aaa.jpg" />
-    <Content Include="media\aaaa.jpg" />
-    <Content Include="media\ayahuasca-pleasant-vision.jpeg" />
-    <Content Include="media\ayahuasca-pleasant-vision1.jpg" />
-    <Content Include="media\ayahuasca-pleasant-vision2.jpg" />
-    <Content Include="media\NeonHeart-EndlessGrace.mp3" />
-    <Content Include="order.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="media\Maldive3.webm" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -121,11 +106,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Labb1.html" />
-    <Content Include="recipe.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
-    <Content Include="shopping.html" />
+    <Content Include="simplePage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -144,9 +127,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>7203</DevelopmentServerPort>
+          <DevelopmentServerPort>17065</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:7203/</IISUrl>
+          <IISUrl>http://localhost:17065/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
